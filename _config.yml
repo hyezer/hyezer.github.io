@@ -10,7 +10,7 @@ author: Hyezer
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Resources: "https://hyezer.github.io"
   Author's home: "https://hyezer.github.io"
 
 # --- Logo --- #
