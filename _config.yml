@@ -33,7 +33,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "hyezer7@gmail.com"
-# facebook: deanattali
+  facebook: hyezer
   github: hyezer
 # twitter: daattali
 # patreon: DeanAttali
@@ -64,10 +64,10 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
-  linkedin: false
-  vk: false
+  twitter: true
+  facebook: true
+  linkedin: true
+  vk: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -175,7 +175,7 @@ footer-link-col: "#404040"
 # --- Misc --- #
 
 # Ruby Date Format to show dates of posts
-date_format: "%B %-d, %Y"https://github.com/settings/emails
+date_format: "%B %-d, %Y"
 
 # Facebook App ID
 #fb_app_id: ""
