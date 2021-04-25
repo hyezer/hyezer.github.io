@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: love coding 
+subtitle: 
 ---
 
 Hi, I am Hyezer.
